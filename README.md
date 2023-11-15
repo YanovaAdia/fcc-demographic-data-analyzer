@@ -7,5 +7,4 @@ you can try it in :
 [replit](https://replit.com/@riefkyanova/fcc-demographic-data-analyzer)
 
 Or you can copy this notebook : 
-
 [google colab](https://colab.research.google.com/drive/14AsMwMpAKj04ps22_9nGcGy8mSDWG-l_?usp=sharing)
