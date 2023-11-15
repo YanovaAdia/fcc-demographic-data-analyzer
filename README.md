@@ -4,6 +4,8 @@ This is the boilerplate for the Demographic Data Analyzer project. Instructions 
 
 This is Assignment for Data-analysis with python certification from freecodecamp.org
 you can try it in : 
-https://replit.com/@riefkyanova/fcc-demographic-data-analyzer
+[replit](https://replit.com/@riefkyanova/fcc-demographic-data-analyzer)
+
 Or you can copy this notebook : 
-https://colab.research.google.com/drive/14AsMwMpAKj04ps22_9nGcGy8mSDWG-l_?usp=sharing
+
+[google colab](https://colab.research.google.com/drive/14AsMwMpAKj04ps22_9nGcGy8mSDWG-l_?usp=sharing)
